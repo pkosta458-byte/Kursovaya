@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form5.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form6.resources
+C:\Users\PC\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form7.resources
